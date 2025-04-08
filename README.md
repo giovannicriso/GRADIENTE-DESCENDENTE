@@ -53,7 +53,9 @@ U(x) = x^2(x - 1)(x + 1) + \frac{x}{4}
 
 📉 **Tarefa**:  
 - Repita o processo do exercício 2.
-- **Reflexão**: Como a adição de um termo linear afeta a convergência e a escolha da taxa de aprendizado \(\alpha\)?
+- **Reflexão**: Como a adição de um termo linear afeta a convergência e a escolha da taxa de aprendizado \(\alpha\)? 
+
+Conclusão: Notamos que quando adicionamos o termo linear, um dos minimos mais a baixo, se tornando um minimo global. Quando variamos \(\alpha\) há uma mudança de comportamento, quando \(\alpha\) é muito grande, o valor converge sempre para o minimo global, porém para valores pequenos de \(\alpha\) o valor converge para o minimo local. 
 
 ---
 
