@@ -39,7 +39,7 @@ U(x) = x^2(x - 1)(x + 1)
 - Ajuste a taxa de aprendizado \(\alpha\) para fazer o algoritmo convergir ora para um mínimo, ora para outro.
 - **Reflexão**: O que você conclui sobre a influência de \(\alpha\) na convergência para mínimos diferentes?
 
-A escolha de \(\alpha\) é **crítica** quando a função tem múltiplos mínimos. Com uma taxa muito alta, o algoritmo pode **não convergir** para um minimo, ficando em um loop em dois pontos. A posição inicial também influencia para qual mínimo o algoritmo vai: se começar mais perto de um deles, ele tende a cair nesse vale.
+Conclusão: A escolha de \(\alpha\) é **crítica** quando a função tem múltiplos mínimos. Com uma taxa muito alta, o algoritmo pode **não convergir** para um minimo, ficando em um loop em dois pontos. A posição inicial também influencia para qual mínimo o algoritmo vai: se começar mais perto de um deles, ele tende a cair nesse vale.
 
 ---
 
