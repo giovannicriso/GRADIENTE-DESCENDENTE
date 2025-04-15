@@ -23,7 +23,6 @@ U(x) = x^2 - 1
 - Ilustre o algoritmo com um gráfico da função \(U(x)\) e a trajetória da partícula.
 - Varie os parâmetros \(\alpha\), \(\epsilon\) e \(x_0\) para ver como afetam a convergência.
 
-Conclusão: A função é uma parabola com concavidade para cima e o algoritmo sempre converge para o mínimo global desde que \(\alpha\) não seja excessivamente grande. Uma taxa de aprendizado muito alta pode causar instabilidades, fazendo o ponto ir para o outro extremo da parabola, porém o mínimo é alcançado na maioria dos casos.
 
 ## 🧮 Exercício 2
 
@@ -39,8 +38,6 @@ U(x) = x^2(x - 1)(x + 1)
 - Ajuste a taxa de aprendizado \(\alpha\) para fazer o algoritmo convergir ora para um mínimo, ora para outro.
 - **Reflexão**: O que você conclui sobre a influência de \(\alpha\) na convergência para mínimos diferentes?
 
-Conclusão: A escolha de \(\alpha\) é **crítica** quando a função tem múltiplos mínimos. Com uma taxa muito alta, o algoritmo pode **não convergir** para um minimo, ficando em um loop em dois pontos. A posição inicial também influencia para qual mínimo o algoritmo vai: se começar mais perto de um deles, ele tende a cair nesse vale.
-
 ---
 
 ## 🧮 Exercício 3
@@ -55,7 +52,6 @@ U(x) = x^2(x - 1)(x + 1) + \frac{x}{4}
 - Repita o processo do exercício 2.
 - **Reflexão**: Como a adição de um termo linear afeta a convergência e a escolha da taxa de aprendizado \(\alpha\)? 
 
-Conclusão: Notamos que quando adicionamos o termo linear, um dos minimos mais a baixo, se tornando um minimo global. Quando variamos \(\alpha\) há uma mudança de comportamento, quando \(\alpha\) é muito grande, o valor converge sempre para o minimo global, porém para valores pequenos de \(\alpha\) o valor converge para o minimo local. 
 
 ---
 
