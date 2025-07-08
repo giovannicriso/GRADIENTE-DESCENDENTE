@@ -26,7 +26,7 @@ U(x) = x^2 - 1
   **Resultado**:
 
  Função usada: `U(x) = x² - 1`  
-![Gráfico de U(x)](img/EX1.PNG)
+![Gráfico de U(x)](EX1.PNG)
 
 ---
 
@@ -46,7 +46,7 @@ U(x) = x^2(x - 1)(x + 1)
 
   **Resultado**:
 
-  ![U(x) = x^2(x - 1)(x + 1)](img/ex2.PNG)
+  ![U(x) = x^2(x - 1)(x + 1)](ex2.PNG)
 
 ---
 
@@ -64,7 +64,7 @@ U(x) = x^2(x - 1)(x + 1) + \frac{x}{4}
 
   **Resultado**:
 
-  ![U(x) = x^2(x - 1)(x + 1) + x/4 ](img/ex3.PNG)
+  ![U(x) = x^2(x - 1)(x + 1) + x/4 ](ex3.PNG)
 
 ---
 
@@ -97,7 +97,7 @@ A função possui **múltiplos mínimos locais**.
 
    **Resultado**:
 
- ![U(r) = U(x, y) = sin(x)cos(y) + 2(xy)^2 / 1000](img/ex4.PNG)
+ ![U(r) = U(x, y) = sin(x)cos(y) + 2(xy)^2 / 1000](ex4.PNG)
 
 
 ---
