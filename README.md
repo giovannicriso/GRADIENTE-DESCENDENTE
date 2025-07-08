@@ -26,7 +26,7 @@ U(x) = x^2 - 1
   **Resultado**:
 
  Função usada: `U(x) = x² - 1`  
-![Gráfico de U(x)](img/ex1.PNG)
+![Gráfico de U(x)](img/EX1.PNG)
 
 ---
 
