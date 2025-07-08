@@ -23,6 +23,11 @@ U(x) = x^2 - 1
 - Ilustre o algoritmo com um gráfico da função \(U(x)\) e a trajetória da partícula.
 - Varie os parâmetros \(\alpha\), \(\epsilon\) e \(x_0\) para ver como afetam a convergência.
 
+  **Resultado**:
+
+  ![U(x) = x^2 - 1](img/EX1.PNG)
+
+---
 
 ## 🧮 Exercício 2
 
@@ -38,6 +43,10 @@ U(x) = x^2(x - 1)(x + 1)
 - Ajuste a taxa de aprendizado \(\alpha\) para fazer o algoritmo convergir ora para um mínimo, ora para outro.
 - **Reflexão**: O que você conclui sobre a influência de \(\alpha\) na convergência para mínimos diferentes?
 
+  **Resultado**:
+
+  ![U(x) = x^2(x - 1)(x + 1)](img/ex2.PNG)
+
 ---
 
 ## 🧮 Exercício 3
@@ -52,6 +61,9 @@ U(x) = x^2(x - 1)(x + 1) + \frac{x}{4}
 - Repita o processo do exercício 2.
 - **Reflexão**: Como a adição de um termo linear afeta a convergência e a escolha da taxa de aprendizado \(\alpha\)? 
 
+  **Resultado**:
+
+  ![U(x) = x^2(x - 1)(x + 1) + x/4 ](img/ex3.PNG)
 
 ---
 
@@ -81,6 +93,11 @@ A função possui **múltiplos mínimos locais**.
 💬 **Reflexões**:
 - O que acontece ao aumentar/diminuir muito \(\alpha\)?
 - Você consegue atingir o **mínimo global**?
+
+   **Resultado**:
+
+ ![U(r) = U(x, y) = sin(x)cos(y) + 2(xy)^2 / 1000](img/ex4.PNG)
+
 
 ---
 
